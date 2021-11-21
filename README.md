@@ -1,5 +1,5 @@
 # Flyweight-C-
-**What is the Flyweight pattern?**
+**Flyweight pattern concepts**
 
 - Intrinsic state: Allows you to share unchanging data between objects 
 - Extrinsic state: Object-specific data can be passed in 
