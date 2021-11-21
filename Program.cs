@@ -18,6 +18,13 @@ namespace FlyweightPattern
             largeEspresso.Serve("Small");
 
             drinkFactory.ListDrinks();
+
+            // Giveaway test: comment out above code
+            var sizes = new string[] {"Small", "Medium", "Large"};
+            foreach(var size in sizes){
+                var giveaway = drinkFactory.CreateGiveaway();
+                giveaway.Serve(size);
+            }
         }
     }
 }
