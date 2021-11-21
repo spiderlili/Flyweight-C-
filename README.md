@@ -9,4 +9,4 @@
 
 **Example: Drinks Ordering App**
 
-In an application that has numerous menu items which might be ordered thousands of times in quick succession: Flyweight is a godsend! 
+In an application that has numerous menu items which might be ordered thousands of times in quick succession 
