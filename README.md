@@ -8,4 +8,5 @@
 - It requires a specialised scenario to be effective: When a large number of objects needs to be created & most object state is categorised as extrinsic, flyweight can be very effective
 
 **Example: Drinks Ordering App**
+
 In an application that has numerous menu items which might be ordered thousands of times in quick succession: Flyweight is a godsend! 
